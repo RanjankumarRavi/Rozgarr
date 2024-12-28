@@ -1,0 +1,73 @@
+.post1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+       margin-top: 30px;
+    height: 100vh;
+    position: top;
+}
+
+.post2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: blueviolet;
+    width: 60vw;
+    height:70vh;
+
+}
+
+.title input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+.description input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+.exp input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+.duration input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+.Locations input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+.company input{
+    width: 40vw;
+    border-radius: 20px;
+    height: 30px;
+    outline: none;
+    font-size: 18px;
+}
+
+.text {
+    width: 20vw;
+    border-radius: 20px;
+    height: 50px;
+    outline: none;
+    font-size: 18px;
+}

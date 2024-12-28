@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    height: 200vh;
+    margin-top: 20px;
+    
+}
+
+
+.filter{
+    display: flex;
+   width: 10vw;
+   align-items: top;
+
+}
+
+.display{
+      background-color: rgb(222, 150, 18);
+     display: flex;
+     justify-content:space-around;
+     flex-wrap: wrap;
+    margin-top: 30px;
+    min-width: 30vw;
+    width: 90vw;
+    height: 200vh;
+
+}
+
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    background-color: rgb(234, 73, 73);
+       height: 325px;
+       border-radius: 20px;
+      padding: 15px;
+      margin: 15px 55px;
+
+}
+
+
+
+
+
+

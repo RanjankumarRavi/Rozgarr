@@ -1,0 +1,22 @@
+.applicants{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: burlywood;
+}
+.info{
+    display: flex;
+    justify-content:space-between;
+
+}
+.info2{
+    display: flex;
+    justify-content:space-between;
+
+}
+.hirebtn{
+
+    display: flex;
+    justify-content: center;
+}
+
